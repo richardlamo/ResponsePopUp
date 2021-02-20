@@ -5,6 +5,7 @@ This repo demonstrates a pop up response to a question within the view controlle
 
 A demonstration is :
 
-<img src="resources/correct.gif" width="500"/>
+<img src="resources/correct.gif" width="200"/>
 
+<img src="resources/incorrect.gif" width="200"/>
 

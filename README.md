@@ -7,5 +7,5 @@ A demonstration is :
 
 <img src="resources/correct.gif" width="200"/>
 
-<img src="resources/incorrect.gif" width="200"/>
+<img src="resources/icorrect.gif" width="200"/>
 
